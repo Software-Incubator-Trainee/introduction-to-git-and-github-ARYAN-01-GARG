@@ -1,0 +1,15 @@
+Name: Aryan Garg
+Branch: B.Tech, 2nd Year - Artificial Intelligence and Machine Learning (AIML)
+
+Hobbies:
+- Coding
+- Playing Guitar
+
+Projects:
+1. Task Manager: A web-based application to manage daily tasks, set reminders, and track progress.
+2. Netflix Clone: A front-end clone of Netflix built using React, featuring user authentication and movie catalog functionalities.
+3. Personal Portfolio: A responsive personal portfolio website to showcase my projects, skills, and experience.
+
+---
+
+Crafted by Aryan Garg.
